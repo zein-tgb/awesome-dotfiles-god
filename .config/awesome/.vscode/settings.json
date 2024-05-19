@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "'HackNerd Font'",
+    "editor.fontSize": 16,
+    "Lua.diagnostics.globals": [
+        "awesome"
+    ]
+}
